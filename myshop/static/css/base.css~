@@ -117,16 +117,16 @@ ul.errorlist {
 
 
 #header {
-   padding:10px 100px;
+    padding:10px 100px;
     font-size:14px;
-    background:#2a80b9;
+    background:#12c064;
     color:#fff;
-    border-bottom:4px solid #111111;
+    border-bottom:4px solid #1cdf78;
     overflow:auto;
 }
 
 #subheader {
-    background:#ececec;
+    background:#2a80b9;
     color:#444;
     padding:15px 100px;
     overflow:auto;

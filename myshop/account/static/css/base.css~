@@ -121,7 +121,7 @@ ul.errorlist {
     font-size:14px;
     background:#2a80b9;
     color:#fff;
-    border-bottom:4px solid #111111;
+    border-bottom:4px solid #2a50b2;
     overflow:auto;
 }
 
